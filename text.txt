@@ -1,0 +1,9 @@
+Neo4j is a graph database management system designed to handle highly connected data efficiently. It was created by Emil Eifrem, Johan Svensson, and Peter Neubauer. The project began around the year 2000, when the creators encountered limitations with relational databases in managing complex, linked information.
+
+The initial version of Neo4j was released in 2007 by Neo Technology, a company later renamed Neo4j, Inc. The database is built around the property graph model, where nodes and elationships are both first-class citizens. Neo4j uses the Cypher query language and provides ACID-compliant transactions.
+
+Neo4j differs from traditional relational databases by enabling direct traversal of relationships without costly join operations. This makes it suitable for use cases such as recommendation engines, fraud detection, knowledge graphs, and network analysis.
+
+Neo4j has grown to include features such as clustering, enterprise scalability, and support for various programming languages and cloud environments. It has both open-source and commercial editions. The company has also introduced cloud-hosted solutions and graph data science tools.
+
+Neo4j played a major role in popularizing graph databases and continues to lead in this domain. The system is widely adopted across industries and supported by a strong developer community.
